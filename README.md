@@ -133,7 +133,3 @@ When executed, the script:
   - Solver status and termination condition
   - Total optimal cost (objective value)
   - Production quantity $q_{tj}$, inventory level $I_{tj}$, and setup decision $y_{tj}$ for each item and period
-
-## License
-
-No license has been specified for this repository. Please contact the author before reusing this code for purposes beyond personal study or reference.
